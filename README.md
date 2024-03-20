@@ -11,6 +11,10 @@
 ### Tecnologias
 
 <div style="display: flex"><br>
+
+  ![flutter](https://img.shields.io/badge/Flutter-04202C?style=for-the-badge&logo=flutter&logoColor=FFFF00)
+  ![dart](https://img.shields.io/badge/Dart-04202C?style=for-the-badge&logo=dart&logoColor=FFFF00)
+  ![java](https://img.shields.io/badge/Java-04202C?style=for-the-badge&logo=java&logoColor=FFFF00)
   
   ![react](https://img.shields.io/badge/ReactJS-04202C?style=for-the-badge&logo=react&logoColor=FFFF00)
   ![next](https://img.shields.io/badge/Next.js-04202C?style=for-the-badge&logo=Next.js&logoColor=FFFF00)
