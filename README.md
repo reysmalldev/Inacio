@@ -19,13 +19,15 @@
   ![react](https://img.shields.io/badge/ReactJS-04202C?style=for-the-badge&logo=react&logoColor=FFFF00)
   ![next](https://img.shields.io/badge/Next.js-04202C?style=for-the-badge&logo=Next.js&logoColor=FFFF00)
   ![node](https://img.shields.io/badge/Node.js-04202C?style=for-the-badge&logo=node.js&logoColor=FFFF00)
-  ![html5](https://img.shields.io/badge/HTML5-04202C?style=for-the-badge&logo=html5&logoColor=FFFF00) 
-  ![css](https://img.shields.io/badge/CSS3-04202C?style=for-the-badge&logo=css3&logoColor=FFFF00) 
-  ![javascript](https://img.shields.io/badge/JavaScript-04202C?style=for-the-badge&logo=javascript&logoColor=FFFF00)
+  ![cheerio](https://img.shields.io/badge/Cheerio-04202C?style=for-the-badge&logo=cheerio&logoColor=FFFF00)
 
   ![python](https://img.shields.io/badge/Python-04202C?style=for-the-badge&logo=python&logoColor=FFFF00)
   ![scrapy](https://img.shields.io/badge/Scrapy-04202C?style=for-the-badge&logo=scrapy&logoColor=FFFF00)
   ![firebasse](https://img.shields.io/badge/firebase-04202C?style=for-the-badge&logo=firebase&logoColor=FFFF00)
+
+  ![html5](https://img.shields.io/badge/HTML5-04202C?style=for-the-badge&logo=html5&logoColor=FFFF00) 
+  ![css](https://img.shields.io/badge/CSS3-04202C?style=for-the-badge&logo=css3&logoColor=FFFF00) 
+  ![javascript](https://img.shields.io/badge/JavaScript-04202C?style=for-the-badge&logo=javascript&logoColor=FFFF00)
 
    ![mysql](https://img.shields.io/badge/MySQL-04202C?style=for-the-badge&logo=mysql&logoColor=FFFF00)
    ![firebase](https://img.shields.io/badge/Firebase-04202C?style=for-the-badge&logo=firebase&logoColor=FFFF00)
